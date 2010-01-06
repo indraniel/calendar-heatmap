@@ -1,0 +1,9 @@
+# cal-heatmap.r: An Rscript to display time-series data as a calendar heatmap 
+
+This is a first-pass Rscript form of the following R code:
+
+   http://blog.revolution-computing.com/downloads/calendarHeat.R
+
+More information about the code can be found in the following blog post:
+
+   http://blog.revolution-computing.com/2009/11/charting-time-series-as-calendar-heat-maps-in-r.html
