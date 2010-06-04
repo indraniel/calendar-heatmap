@@ -1,7 +1,8 @@
 #!/usr/bin/env Rscript
 
 # L I C E N S E ###############################################################
-## Copyright 2010 Indraniel Das 
+## Copyright 2009 Humedica.  All rights reserved.
+## Modifications Copyright 2010 Indraniel Das
 
 ## This program is free software; you can redistribute it and/or modify
 ## it under the terms of the GNU General Public License as published by
@@ -23,6 +24,7 @@
 #    http://blog.revolution-computing.com/downloads/calendarHeat.R
 # More information about the code can be found in the following blog post:
 #  http://blog.revolution-computing.com/2009/11/charting-time-series-as-calendar-heat-maps-in-r.html
+#  The original author of calendarHeat.R was Paul Bleicher
 
 library('methods');
 library('optparse');
